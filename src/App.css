@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans:wght@600;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,700&display=swap');
+
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body {
+	font-family: "Encode Sans" ;
+	background-color: #262626;
+}
+
+h1,
+h2,
+h3 {
+	color: aliceblue;
+}
+
+h3,
+h4 {
+	font-weight: 400;
+	color: rgb(100, 100, 100);
+}
+button {
+	color:rgb(201, 201, 201); 
+	background-color: #383838 !important;
+	border-radius: 10px !important;
+}
+
+.skip-forward {
+	color: rgb(201, 201, 201);
+}
+
+.skip-back {
+	color: rgb(201, 201, 201);
+}
+.play {
+	color: rgb(201, 201, 201);
+}
+
+p {
+	color: #fff;
+}
+
+.timeSet {
+	text-align: center;
+}

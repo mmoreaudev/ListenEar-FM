@@ -1,7 +1,0 @@
-{
-  "name": "ListenEarFM",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react"
-}

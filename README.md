@@ -46,6 +46,7 @@ This will build the app for production to the "build" folder. The Built version 
 ## Authors
 
 - [@mmoreaudev](https://www.github.com/mmoreaudev)
+- [@WilsonLe](https://github.com/WilsonLe) 
 
 
 ## Support

@@ -1,1 +1,57 @@
 
+# ListenEar FM
+
+A web application that brings together the major French radio stations via MP3 streams.
+
+
+## Demo
+
+https://listen-ear-fm.vercel.app/
+
+
+## Deployment
+
+Clone the repository and start testing out the application yourself!
+
+In the project directory, you can run:
+
+```
+// 1. If you have not installed Yarn:
+npm install yarn
+
+// 2. Install the dependencies:
+yarn install
+
+// 3. Kick start the project in development mode:
+yarn start
+```
+
+If you're ready to deploy the application to the internet, use:
+```
+yarn build
+```
+This will build the app for production to the "build" folder. The Built version will be optimized for best performance.
+## Badges
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+
+## Screenshots
+
+![App Screenshot](https://i.postimg.cc/SQBw2yKx/Capture-d-cran-2023-02-13-145943.png)
+
+![App Screenshot](https://i.postimg.cc/YSDPp7Vk/Capture-d-cran-2023-02-13-150023.png)
+
+
+## Authors
+
+- [@mmoreaudev](https://www.github.com/mmoreaudev)
+
+
+## Support
+
+For support, email contact@mateomoreau.com or send me a message on instagram.
+
+
+## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PayPal.me/mateomoreaw) 

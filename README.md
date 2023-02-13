@@ -38,9 +38,8 @@ This will build the app for production to the "build" folder. The Built version 
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/mmoreaudev/ListenEar-FM/main/screenshots/2.png)
-
-![App Screenshot](https://raw.githubusercontent.com/mmoreaudev/ListenEar-FM/main/screenshots/1.png)
+<img src="https://raw.githubusercontent.com/mmoreaudev/ListenEar-FM/main/screenshots/2.png" width="50%">
+<img src="https://raw.githubusercontent.com/mmoreaudev/ListenEar-FM/main/screenshots/1.png" width="50%">
 
 
 ## Authors

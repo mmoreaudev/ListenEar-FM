@@ -38,9 +38,9 @@ This will build the app for production to the "build" folder. The Built version 
 
 ## Screenshots
 
-![App Screenshot](https://i.postimg.cc/SQBw2yKx/Capture-d-cran-2023-02-13-145943.png)
+![App Screenshot](https://raw.githubusercontent.com/mmoreaudev/ListenEar-FM/main/screenshots/2.png)
 
-![App Screenshot](https://i.postimg.cc/YSDPp7Vk/Capture-d-cran-2023-02-13-150023.png)
+![App Screenshot](https://raw.githubusercontent.com/mmoreaudev/ListenEar-FM/main/screenshots/1.png)
 
 
 ## Authors

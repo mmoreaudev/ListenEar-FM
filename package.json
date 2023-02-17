@@ -1,7 +1,8 @@
 {
   "name": "listenear-fm",
-  "version": "1.9.1",
-  "description": "A web application that brings together the major French radio stations via MP3 streams.",
+  "author": "Matéo Moreau (mateomoreau.com)",
+  "version": "0.1.0",
+  "private": true,
   "dependencies": {
     "@capacitor/android": "4.4.0",
     "@capacitor/app": "4.1.0",
@@ -20,24 +21,19 @@
     "react-scripts": "4.0.1",
     "styled-components": "^5.2.1",
     "uuid": "^8.3.1",
-    "web-vitals": "^0.2.4",
-    "yarn": "^1.22.19"
+    "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "start": "react-scripts --openssl-legacy-provider start",
-    "build": "react-scripts --openssl-legacy-provider build",
-    "test": "react-scripts --openssl-legacy-provider test",
-    "eject": "react-scripts --openssl-legacy-provider eject"
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
       "react-app",
       "react-app/jest"
     ]
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mmoreaudev/ListenEar-FM.git"
   },
   "browserslist": {
     "production": [
@@ -49,14 +45,9 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-  "author": "Matéo Moreau (mateomoreau.com)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mmoreaudev/ListenEar-FM/issues"
+    ]
   },
   "devDependencies": {
     "@capacitor/cli": "4.4.0"
-  },
-  "homepage": "https://github.com/mmoreaudev/ListenEar-FM#readme"
+  }
 }

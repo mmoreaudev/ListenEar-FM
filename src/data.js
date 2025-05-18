@@ -62,11 +62,11 @@ function chillHop() {
 			active: false,
 		},
 		{
-			name: "NG Radio",
+			name: "France Inter",
 			cover:
-				"https://raw.githubusercontent.com/mmoreaudev/ListenEar-FM/main/radio/logo/ngradio.png",
+				"https://snjcgt.fr/wp-content/uploads/sites/11/2022/03/logo-France-Inter.png",
 			artist: "Nation Glory Radio",
-			audio: "https://radio.nationsglory.fr:8000/ngradio",
+			audio: "http://direct.franceinter.fr/live/franceinter-midfi.mp3",
 			color: ["#CD607D", "#c94043"],
 			id: uuidv4(),
 			active: false,

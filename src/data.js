@@ -65,7 +65,7 @@ function chillHop() {
 			name: "France Inter",
 			cover:
 				"https://snjcgt.fr/wp-content/uploads/sites/11/2022/03/logo-France-Inter.png",
-			artist: "Nation Glory Radio",
+			artist: "Vous êtes bien sur France Inter!",
 			audio: "http://direct.franceinter.fr/live/franceinter-midfi.mp3",
 			color: ["#CD607D", "#c94043"],
 			id: uuidv4(),

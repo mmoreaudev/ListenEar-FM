@@ -1,4 +1,4 @@
-
+# NOW THIS PROJECT HAS BEEN MOVED AT https://github.com/mmoreaudev/ListenEarFM-Reborn  
 # ListenEar FM
 
 A web application that brings together the major French radio stations via MP3 streams.
@@ -6,7 +6,6 @@ A web application that brings together the major French radio stations via MP3 s
 
 ## Demo
 
-https://listen-ear-fm.vercel.app/
 
 
 ## Deployment
